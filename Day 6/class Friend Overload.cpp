@@ -19,11 +19,7 @@ class Complex{
 	cout << "THe Value for real :" << real << "The value for img :" << img << endl;
 	}
 
-	/*Complex operator +(Complex c){
-	Complex temp;
-	temp.real = real + c.real;
-	temp.img = img + c.img;
-	return temp;} */
+	
 	
 	 friend Complex operator + (Complex c1,Complex c2);
 };
