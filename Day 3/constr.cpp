@@ -1,14 +1,10 @@
 #include <iostream>
 using namespace std;
-
 class Complex
 {
     int a, b;
-
 public:
-   
-
-    Complex(void); // Constructor declaration
+       Complex(void); // Constructor declaration
 
     void printNumber()
     {
