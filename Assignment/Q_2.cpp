@@ -1,7 +1,7 @@
-//The given code has a base class charInput, it has member methods add() and getvalue(). The class numInput inherits charInput. You need to implement:
+/* The given code has a base class charInput, it has member methods add() and getvalue(). The class numInput inherits charInput. You need to implement:
 	add():  it should be inside charInput, this adds the given character to the current value
 	getValue(): it should be inside numInput, it returns the current value
-	add(): it should be inside numInput, this must override the base class method so that each non-numeric char is ignored.
+	add(): it should be inside numInput, this must override the base class method so that each non-numeric char is ignored. */
 
 
 
