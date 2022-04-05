@@ -1,3 +1,11 @@
+/* There are p white balls and q red balls, you need to put them into r bags such that:
+No bag should be empty
+A bag can contain only red balls or white balls, not both
+No red ball can be left alone in a bag
+Find the number of ways to put the balls in bags. All bags are identical, but each ball is unique (or
+numbered). */
+
+
 #include <iostream>
 using namespace std;
 
